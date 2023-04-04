@@ -1,0 +1,22 @@
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.Form1.resources
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.Properties.Resources.resources
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\bin\Debug\exPauta.exe.config
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\bin\Debug\exPauta.exe
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\bin\Debug\exPauta.pdb
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.exe
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.pdb
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\bin\Debug\exPauta.exe.config
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\bin\Debug\exPauta.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\bin\Debug\exPauta.pdb
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.Form1.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.Properties.Resources.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exPauta\exPauta\obj\Debug\exPauta.pdb
